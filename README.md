@@ -1,5 +1,5 @@
 # onebitx
-Projeto criado inspirado no website da SpaceX
+Project inspired on SpaceX website.
 
 
 In this project I use Framework CSS/Sass Bootstrap to develope this website. 
